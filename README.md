@@ -6,7 +6,7 @@ Now based on common command (create and insert).
 
 ## Usage
 
-Revise some variable on source code and then run source by NodeJS
+Revise some variable in source code and then run source by NodeJS
 
 ```javascript
 var databaseName = 'DATABASE_NAME';                                // <----------- apply here
